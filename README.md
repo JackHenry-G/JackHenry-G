@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
-<h3 align="center">Passionate full stack Java/Python/AWS developer</h3>
+<h3 align="center">Passionate full stack developer - Java, Python, AWS</h3>
+<h3 align="center">[https://jackgoggin.com/](https://jackgoggin.com/)</h3>
 
 - 👨‍💻 All of my projects are available at [https://jackgoggin.com/](https://jackgoggin.com/)
 
