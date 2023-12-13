@@ -8,8 +8,7 @@ I'm a 22 year old software developer with 4 years of varied experience accross t
 
 (I also have a short stint in Product Management so you can be sure I have a keen eye for developing a product the correct way!)
 
-[![My Portfolio](https://github.com/JackHenry-G/JackHenry-G/blob/assets/78259929/619468ca-4694-4908-83d8-95305df3290f/your_image.png)](mailto:jackhenryg@hotmail.co.uk)
-
+📫 You can reach me at jackhenryg@hotmail.co.uk
 
 </p>
 
