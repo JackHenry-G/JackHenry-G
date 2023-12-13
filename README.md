@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
-<h3 align="center">Passionate full stack developer - Java, Python, AWS</h3>
-
+<h3 align="center">👨‍💻 Passionate full stack developer with devops experience/h3>
+<h4 align="center">🌐 <a href="https://jackgoggin.com/">AWS portfolio website</a></h3>
+  
 <p align="left">
 I'm a 22 year old software developer with 4 years of varied experience accross the whole pipeline thanks to following an apprenticeship straight from school. From front-end to back-end to devops to Linux to NoSQL graph databases to relational databases, I've touched on a lot! My main language is Java so right now I am focussing on full stack web development with an emphasis on learning more about Spring Boot and back-end API development. But I have a keen interest in developing my already existing Python skills going forward. 
 
 (I also have a short stint in Product Management so you can be sure I have a keen eye for developing a product the correct way!)
-
--👨‍💻 All of my projects are available at <a href="https://jackgoggin.com/">my AWS portfolio website</a>
-
 </p>
 
 <h3 align="left">Connect with me:</h3>
