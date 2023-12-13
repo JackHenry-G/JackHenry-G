@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jack</h1>
+<h1 align="center">Hi 👋, I'm Jack <a href="https://linkedin.com/in/jack-goggin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jack-goggin" height="30" width="40" /></a></h1>
 <h3 align="center">Passionate full stack developer - Java, Python, AWS</h3>
 <h3 align="center">👨‍💻 All of my projects are available at <a href="https://jackgoggin.com/">my AWS portfolio website</a></h3>
 
