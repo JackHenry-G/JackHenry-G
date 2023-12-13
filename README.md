@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
 <h3 align="center">Passionate full stack developer - Java, Python, AWS</h3>
-<h3 align="center">[https://jackgoggin.com/](https://jackgoggin.com/)</h3>
-
-- 👨‍💻 All of my projects are available at [https://jackgoggin.com/](https://jackgoggin.com/)
+<h3 align="center">👨‍💻 All of my projects are available at <a href="https://jackgoggin.com/">my AWS portfolio website</a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
