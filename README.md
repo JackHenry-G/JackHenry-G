@@ -4,7 +4,7 @@
 
 <h3 align="left">About me:</h3>
 <p align="left">
-I'm a 22 year old software developer with 4 years of varied experience accross the whole pipeline thanks to following an apprenticeship straight from school. From front-end to back-end to devops to Linux to NoSQL graph databases to relational databases, I've touched on a lot! My main language is Java so right now I am focussing on full stack web development with an emphasis on learning more about Spring Boot and back-end API development. But I have a keen interest in developing my already existing Python skills going forward. 
+I'm a software developer with 4 years of varied experience accross the whole pipeline thanks to following an apprenticeship straight from school. From front-end to back-end to devops to Linux to NoSQL graph databases to relational databases, I've touched on a lot! My main language is Java so right now I am focussing on full stack web development with an emphasis on learning more about Spring Boot and back-end API development. But I have a keen interest in developing my already existing Python skills going forward. 
 
 (I also have a short stint in Product Management so you can be sure I have a keen eye for developing a product the correct way!)
 
