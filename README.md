@@ -4,11 +4,12 @@
 
 <h3 align="left">About me:</h3>
 <p align="left">
-I'm a software developer with 4 years of varied experience accross the whole pipeline thanks to following an apprenticeship straight from school. From front-end to back-end to devops to Linux to NoSQL graph databases to relational databases, I've touched on a lot! My main language is Java so right now I am focussing on full stack web development with an emphasis on learning more about Spring Boot and back-end API development. But I have a keen interest in developing my already existing Python skills going forward. 
 
-(I also have a short stint in Product Management so you can be sure I have a keen eye for developing a product the correct way!)
+I have interest and experience in Software Engineer, Data/Business Analaysis and Product Management. More relevant to this page though I love creating and building things with code that allow me to solve interesting problems and make even more interesting solutions.
 
-📫 You can reach me at jackhenryg@hotmail.co.uk
+Following an apprenticeship straight from school where I studied and worked at the same time, I've covered a lot!. From front-end to back-end to devops to Linux to NoSQL graph databases to relational databases. My main languages are Java and Python, but I'm a keen learner and am at a point where I can easily pick up new languages. Right now I am focussing on full stack web development with an emphasis on learning more about REACT, Spring Boot and back-end API development.
+
+📫 You can reach me at jackhenryg@outlook.com
 
 </p>
 
